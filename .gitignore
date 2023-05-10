@@ -1,0 +1,8 @@
+# Keep environment variables out of version control
+.env
+
+node_modules
+notes.txt
+.DS_Store
+
+newQuotes.json
