@@ -1,114 +1,58 @@
 [
 	{
-		"quote": "We'll make it.",
-		"character": "Master Chief",
-		"title": "Halo 3",
-		"esrb": "M",
-		"release": 2007
+		"quote": "Fear not... I will make use of your corpse.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "Wake me when you need me.",
-		"character": "Master Chief",
-		"title": "Halo 3",
-		"esrb": "M",
-		"release": 2007
+		"quote": "This land will never heal. But I will lay it to rest.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "Slow down, you're losing me.",
-		"character": "Master Chief",
-		"title": "Halo Combat Evolved",
-		"esrb": "M",
-		"release": 2001
+		"quote": "Tired, ancient, and half-dead. Still, I come for you.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "No, I think we're just getting started.",
-		"character": "Master Chief",
-		"title": "Halo Combat Evolved",
-		"esrb": "M",
-		"release": 2001
+		"quote": "I carry these souls to their end... wherever it may be.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "Our duty as soldiers is to protect humanity, whatever the cost.",
-		"character": "Master Chief",
-		"title": "Halo 4",
-		"esrb": "M",
-		"release": 2012
+		"quote": "The dead don't hear you, no matter how you cry.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "She made you. She can fix you.",
-		"character": "Master Chief",
-		"title": "Halo 4",
-		"esrb": "M",
-		"release": 2012
+		"quote": "I do not live in hope. I work to return it.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "Oh, I'm the strangest thing you've seen all day?",
-		"character": "Cortana",
-		"title": "Halo 4",
-		"esrb": "M",
-		"release": 2012
+		"quote": "One can stare into the grave too long.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2009
 	},
 	{
-		"quote": "Maybe next time you rescue us... you can give us more time to pack.",
-		"character": "Dr. Tillson",
-		"title": "Halo 4",
-		"esrb": "M",
-		"release": 2012
-	},
-	{
-		"quote": "I... am ordering you... TO SURRENDER THAT AI!",
-		"character": "Andrew Del Rio",
-		"title": "Halo 4",
-		"esrb": "M",
-		"release": 2012
-	},
-	{
-		"quote": "I am Kahn of Outworld! Vacate my throne, or I'll soak these sands with your blood!",
-		"character": "Shao Kahn",
-		"title": "Mortal Kombat 11",
-		"esrb": "M",
-		"release": 2019
-	},
-	{
-		"quote": "There are fates worst than death!",
-		"character": "Raiden",
-		"title": "Mortal Kombat X",
-		"esrb": "M",
-		"release": 2019
-	},
-	{
-		"quote": "You weak, pathetic fool!",
-		"character": "Shao Kahn",
-		"title": "Mortal Kombat 11",
-		"esrb": "M",
-		"release": 2019
-	},
-	{
-		"quote": "Test your might!",
-		"character": "Announcer",
-		"title": "Mortal Kombat",
-		"esrb": "M",
-		"release": 1992
-	},
-	{
-		"quote": "Flawless Victory",
-		"character": "Announcer",
-		"title": "Mortal Kombat",
-		"esrb": "M",
-		"release": 1992
-	},
-	{
-		"quote": "Friendship! Friendship?!",
-		"character": "Announcer",
-		"title": "Mortal Kombat 2",
-		"esrb": "M",
-		"release": 1993
-	},
-	{
-		"quote": "Get Over Here!",
-		"character": "Scorpion",
-		"title": "Mortal Kombat",
-		"esrb": "M",
-		"release": 1992
+		"quote": "This journey is long, but I will complete it.",
+		"character": "Yorick",
+		"title": "League Of Legends",
+		"esrb": "T",
+		"release": 2000
 	}
 ]
